@@ -31,6 +31,6 @@ For further details about the calculation of weights, we refer to the aforementi
 
 The authors thank Wainwright, Kaktovik, and Venetie collaborators and households for their time and expertise.
 
-# Credit
+# Credits
 
 Please cite the accompanying paper, if you use this data set in your study.
