@@ -6,7 +6,7 @@ This repository provides free access (under the GNU GPL v3) to the multiplex net
 
 J.A. Baggio, S.B. Burnsilver, A. Arenas, J.S. Magdanz, G.P. Kofinas, and M. De Domenico
 
-To appear in PNAS (2016)
+PNAS 113(48), 13708-13713 (2016)
 
 # Introduction
 
